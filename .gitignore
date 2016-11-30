@@ -1,6 +1,5 @@
 *.project
 *.jshintrc 
-README.md
 *.settings
 *.sublime-project
 *.tern-project
